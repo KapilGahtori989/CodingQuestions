@@ -1,7 +1,7 @@
 import java.util.Collections;
 import java.util.Stack;
 
-public class ReversingStack{
+public class SortingStack{
     public static void main(String[] args) {
         Stack<Integer> s = new Stack<>();
         Collections.addAll(s, 11,2,32,3,41);
